@@ -44,10 +44,3 @@ _I ship production AI end-to-end — LangGraph multi-agent backends through Reac
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white)
 
 **AI / Agents:** LangGraph · LangChain · CrewAI · RAG pipelines · ChromaDB · LLM evaluation · Azure OpenAI (GPT-4o) · Claude · Gemini · Ollama · PyTorch
-
----
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=S1rt3ge&show_icons=true&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S1rt3ge&layout=compact&hide_border=true" />
-</p>
